@@ -1,0 +1,49 @@
+body{
+    background-color: black;
+    
+}
+
+
+.kutu{
+    border: solid 5px rgb(232, 174, 14) ;
+    width: 500px;
+    height: 400px;
+   
+    
+    position: absolute;
+    left: 230px;
+    top: 40px;
+    
+    
+}
+img{
+    width: 100px;
+    position: absolute;
+    left: 420px;
+    
+   top: 60px ;
+}
+.yazı1{
+    color: aliceblue;
+    position: absolute;
+    top: 140px;
+    left:380px ;
+    font-family: 'Itim', cursive;
+}
+.yazı2{
+    color: aliceblue;
+    font-family: 'Poppins', sans-serif;
+    
+    position: absolute;
+    left: 360px;
+    top: 200px; ;
+
+}
+.pragraf{
+    color: aliceblue;
+    font-family: 'Poppins', sans-serif;
+    width: 460px;
+    position: absolute;
+    left: 255px;
+    top: 235px;
+}
